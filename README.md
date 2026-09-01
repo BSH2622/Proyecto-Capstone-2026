@@ -26,14 +26,14 @@ Proyecto Capstone es un trabajo integrador de final de carrera o programa que pe
 
 ## Valores del equipo
 
-- [Valor 1]
-- [Valor 2]
+- Compromiso: Nos comprometemos con el cuidado del medioambiente y con mejorar la gestión de residuos del Hub.
+- Innovación: Buscamos soluciones simples y creativas que permitan mejorar la medición y gestión de los residuos.
 - [Valor 3]
 
 ## Normas de funcionamiento
 
-1. [Norma 1]
-2. [Norma 2]
+1. [Norma 3] 
+2. [Norma 3]
 3. [Norma 3]
 4. [Cómo resolveremos desacuerdos]
 5. [Cómo registraremos las decisiones]
