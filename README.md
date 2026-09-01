@@ -23,28 +23,31 @@ Proyecto Capstone es un trabajo integrador de final de carrera o programa que pe
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
 | [Nombre] | [Carrera] | [Rol] | [@usuario] |
+| [Nombre] | [Carrera] | [Rol] | [@usuario] |
+| [Nombre] | [Carrera] | [Rol] | [@usuario] |
+
 
 ## Valores del equipo
 
 - Compromiso: Nos comprometemos con el cuidado del medioambiente y con mejorar la gestión de residuos del Hub.
 - Innovación: Buscamos soluciones simples y creativas que permitan mejorar la medición y gestión de los residuos.
-- [Valor 3]
+- Mejora Continua: Analizamos los resultados obtenidos para identificar oportunidades de mejora.
 
 ## Normas de funcionamiento
 
-1. [Norma 3] 
-2. [Norma 3]
-3. [Norma 3]
+1. Participación Activa: Todos los integrantes deben participar y aportar ideas durante el desarrollo del proyecto. 
+2. Toma de decisiones: Las decisiones importantes se tomarán mediante consenso del equipo.
+3. Resolución de conflictos: Cualquier diferencia se abordará mediante diálogo y buscando una solución que beneficie al equipo.
 4. [Cómo resolveremos desacuerdos]
 5. [Cómo registraremos las decisiones]
 
 ## Desafío inicial
 
-[Describan el desafío con sus propias palabras. Indiquen qué saben, qué todavía no saben y qué supuestos deben comprobar.]
+Diseñar una forma sencilla y eficiente de medir y gestionar los residuos reciclables del Hub Providencia, permitiendo conocer cuánto se genera, qué se recicla y dónde existen oportunidades de mejora.
 
 ## Objetivo SMART del equipo
 
-[Escriban un objetivo específico, medible, alcanzable, relevante y acotado en el tiempo.]
+Diseñar y validar, durante el proceso del desarrollo de este desafío actual, un prototipo de sistema que permita registrar y cuantificar los residuos reciclables generados en un espacio piloto del Hub Providencia, clasificándolos por tipo y cantidad, para generar indicadores que faciliten la toma de decisiones y permitan identificar oportunidades de reducción, reutilización y reciclaje.
 
 ## Compromisos individuales
 
