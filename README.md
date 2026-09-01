@@ -20,11 +20,11 @@ Proyecto Capstone es un trabajo integrador de final de carrera o programa que pe
 
 | Integrante | Carrera o especialidad | Rol inicial | Usuario de GitHub |
 |---|---|---|---|
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
-| [Nombre] | [Carrera] | [Rol] | [@usuario] |
+| Vicente Salas | Ing. Civil Industrial| [Rol] | [@usuario] |
+| Benjamín Santibáñez | Ing. Civil Industrial | [Rol] | [@usuario] |
+| Sebastian Ayala | Ing. Civil Informatica | [Rol] | [@usuario] |
+| Matias Seguel | Ing. Civil Electronica | [Rol] | [@usuario] |
+| Paloma Muñoz| Ing. Civil Electronica | [Rol] | [@usuario] |
 
 
 ## Valores del equipo
