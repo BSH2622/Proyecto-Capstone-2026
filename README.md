@@ -22,7 +22,7 @@ Proyecto Capstone es un trabajo integrador de final de carrera o programa que pe
 |---|---|---|---|
 | Vicente Salas | Ing. Civil Industrial| [Rol] | [@usuario] |
 | Benjamín Santibáñez | Ing. Civil Industrial | [Rol] | [@usuario] |
-| Sebastian Ayala | Ing. Civil Informatica | [Rol] | [@usuario] |
+| Sebastian Ayala | Ing. Civil en Computación e Informatica | [Rol] | [@usuario] |
 | Matias Seguel | Ing. Civil Electronica | [Rol] | [@usuario] |
 | Paloma Muñoz| Ing. Civil Electronica | [Rol] | [@usuario] |
 
